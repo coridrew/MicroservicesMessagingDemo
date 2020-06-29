@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Data.SqlClient;
 using System.Threading.Tasks;
+using Microsoft.Data.SqlClient;
 using NServiceBus;
-using NServiceBus.Persistence.Sql;
 
 namespace Shipping
 {
